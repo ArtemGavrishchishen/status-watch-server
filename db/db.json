@@ -1,0 +1,360 @@
+{
+  "watches": [
+    {
+      "id": "m-18463-615",
+      "brand": "Swiss Military Hanowa",
+      "model": "Ace Chrono",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 287,
+      "label": null
+    },
+    {
+      "id": "m-02561-360",
+      "brand": "Casio",
+      "model": "Edifice EFA-121D-1AVEF",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 112,
+      "label": "sale"
+    },
+    {
+      "id": "m-02605-830",
+      "brand": "Casio",
+      "model": "Edifice EQS-500C-1A1ER",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 294,
+      "label": null
+    },
+    {
+      "id": "m-02684-140",
+      "brand": "Casio",
+      "model": "G-Shock GA-110GB-1AER",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "gold",
+      "price": 205,
+      "label": "sale"
+    },
+    {
+      "id": "m-94307-370",
+      "brand": "Casio",
+      "model": "Edifice EFR-557CD-1AVUEF",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 212,
+      "label": "sale"
+    },
+    {
+      "id": "m-59205-970",
+      "brand": "Casio",
+      "model": "G-Shock GST-B100D-1AER",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 632,
+      "label": "hit"
+    },
+    {
+      "id": "m-64579-890",
+      "brand": "Casio",
+      "model": "Edifice EQB-501XBL-2AER",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "blue",
+      "price": 463,
+      "label": "hit"
+    },
+    {
+      "id": "m-86543-700",
+      "brand": "Versace",
+      "model": "CHARACTER Tonneau",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "white",
+      "price": 1057,
+      "label": "hit"
+    },
+    {
+      "id": "m-86534-000",
+      "brand": "Versace",
+      "model": "Acron",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "mechanical",
+      "dial color": "black",
+      "price": 2200,
+      "label": "new"
+    },
+    {
+      "id": "m-86541-000",
+      "brand": "Versace",
+      "model": "CHARACTER Tonneau Chrono",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "silver",
+      "price": 1400,
+      "label": "new"
+    },
+    {
+      "id": "m-34681-000",
+      "brand": "Bulova",
+      "model": "Mechanical 97A109",
+      "for whom": "man's",
+      "style": "jewelry",
+      "type of mechanism": "mechanical",
+      "dial color": "black",
+      "price": 400,
+      "label": null
+    },
+    {
+      "id": "m-03274-000",
+      "brand": "Citizen",
+      "model": "Ana-Digi JY0020-64E",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 600,
+      "label": "hit"
+    },
+    {
+      "id": "m-05388-800",
+      "brand": "Pierre Lannier",
+      "model": "Chronograph",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 193,
+      "label": "sale"
+    },
+    {
+      "id": "m-56420-800",
+      "brand": "Michel Renee",
+      "model": "272G331S",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "beige",
+      "price": 193,
+      "label": "sale"
+    },
+    {
+      "id": "m-43721-000",
+      "brand": "Roamer",
+      "model": "Elements Tonneau",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "white",
+      "price": 333,
+      "label": null
+    },
+    {
+      "id": "m-45799-000",
+      "brand": "Ernest",
+      "model": "Borel GS-6690-2632",
+      "for whom": "man's",
+      "style": "classic",
+      "type of mechanism": "electronic",
+      "dial color": "white",
+      "price": 1433,
+      "label": "hit"
+    },
+    {
+      "id": "m-72922-000",
+      "brand": "Timex",
+      "model": "EXPEDITION WS4",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "electronic",
+      "dial color": "gray",
+      "price": 333,
+      "label": null
+    },
+    {
+      "id": "m-92284-000",
+      "brand": "Casio",
+      "model": "G-Shock GF-8250CM-2ER",
+      "for whom": "man's",
+      "style": "sports",
+      "type of mechanism": "electronic",
+      "dial color": "gray",
+      "price": 600,
+      "label": "hit"
+    },
+    {
+      "id": "w-13467-000",
+      "brand": "Versace",
+      "model": "Reve Ceramic Chrono",
+      "for whom": "women's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 3467,
+      "label": "new"
+    },
+    {
+      "id": "w-86511-000",
+      "brand": "Pequignet",
+      "model": "Moorea Triomphe Chrono",
+      "for whom": "women's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 2733,
+      "label": "hit"
+    },
+    {
+      "id": "w-66706-000",
+      "brand": "Balmain",
+      "model": "Maestria Chrono Lady Round",
+      "for whom": "women's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 1367,
+      "label": "hit"
+    },
+    {
+      "id": "w-82741-300",
+      "brand": "Bulova",
+      "model": "Diamond",
+      "for whom": "women's",
+      "style": "jewelry",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 777,
+      "label": "sale"
+    },
+    {
+      "id": "w-79193-900",
+      "brand": "Ernest",
+      "model": "Borel LBR-906-0829BK",
+      "for whom": "women's",
+      "style": "classic",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 530,
+      "label": null
+    },
+    {
+      "id": "w-91275-000",
+      "brand": "Nautica",
+      "model": "NSR-100 Digital",
+      "for whom": "women's",
+      "style": "sports",
+      "type of mechanism": "electronic",
+      "dial color": "gray",
+      "price": 133,
+      "label": null
+    },
+    {
+      "id": "w-37726-000",
+      "brand": "Casio",
+      "model": "BABY-G BG-169G-4BER",
+      "for whom": "women's",
+      "style": "sports",
+      "type of mechanism": "electronic",
+      "dial color": "gold",
+      "price": 133,
+      "label": null
+    },
+    {
+      "id": "c-53557-300",
+      "brand": "Casio",
+      "model": "LA-20WH-8AEF",
+      "for whom": "children's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "gray",
+      "price": 43,
+      "label": "new"
+    },
+    {
+      "id": "c-72993-200",
+      "brand": "Timex YOUTH Kids",
+      "model": "Butterflies&Hearts",
+      "for whom": "children's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "white",
+      "price": 40,
+      "label": "hit"
+    },
+    {
+      "id": "c-86523-200",
+      "brand": "Timex YOUTH Kids",
+      "model": "Camouflage",
+      "for whom": "children's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "white",
+      "price": 40,
+      "label": "hit"
+    },
+    {
+      "id": "c-41409-375",
+      "brand": "Q&Q",
+      "model": "Kids Collection VQ96J016Y",
+      "for whom": "children's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "white",
+      "price": 13,
+      "label": null
+    },
+    {
+      "id": "c-59695-375",
+      "brand": "Q&Q",
+      "model": "Kids Collection VQ96J017Y",
+      "for whom": "children's",
+      "style": "sports",
+      "type of mechanism": "quartz",
+      "dial color": "black",
+      "price": 13,
+      "label": "sale"
+    }
+  ],
+  "shares": [
+    {
+      "id": 1,
+      "title": "Casio Edifice EQB-501XBL-2AER",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "imgSrc": "./assets/1.png"
+    },
+    {
+      "id": 2,
+      "title": "Pequignet Moorea Triomphe Chrono",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "imgSrc": "./assets/2.png"
+    },
+    {
+      "id": 3,
+      "title": "Pierre Lannier Chronograph",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "imgSrc": "./assets/3.png"
+    },
+    {
+      "id": 4,
+      "title": "Casio Edifice EQS-500C-1A1ER",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "imgSrc": "./assets/4.png"
+    }
+  ]
+}
