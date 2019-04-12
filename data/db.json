@@ -336,25 +336,25 @@
       "id": 1,
       "title": "Casio Edifice EQB-501XBL-2AER",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
-      "imgSrc": "./assets/1.png"
+      "imgSrc": "http://localhost:8080/img/shares/1.png"
     },
     {
       "id": 2,
       "title": "Pequignet Moorea Triomphe Chrono",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
-      "imgSrc": "./assets/2.png"
+      "imgSrc": "http://localhost:8080/img/shares/2.png"
     },
     {
       "id": 3,
       "title": "Pierre Lannier Chronograph",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
-      "imgSrc": "./assets/3.png"
+      "imgSrc": "http://localhost:8080/img/shares/3.png"
     },
     {
       "id": 4,
       "title": "Casio Edifice EQS-500C-1A1ER",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
-      "imgSrc": "./assets/4.png"
+      "imgSrc": "http://localhost:8080/img/shares/4.png"
     }
   ]
 }
