@@ -10,7 +10,16 @@ const errorHandler = (req, res, next) => {
 };
 
 const startServer = port => {
+  app;
   app
+    .use(function(req, res, next) {
+      res.header("Access-Control-Allow-Origin", "*");
+      res.header(
+        "Access-Control-Allow-Headers",
+        "Origin, X-Requested-With, Content-Type, Accept"
+      );
+      next();
+    })
     .use(express.static("public"))
     .use(bodyParser.urlencoded({ extended: false }))
     .use(bodyParser.json())
