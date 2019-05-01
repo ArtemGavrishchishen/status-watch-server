@@ -10,8 +10,8 @@
     "price": 287,
     "label": null,
     "img": [
-      "http://localhost:8080/assets/img/watches/m-18463-615/1.png",
-      "http://localhost:8080/assets/img/watches/m-18463-615/2.png"
+      "assets/img/watches/m-18463-615/1.png",
+      "assets/img/watches/m-18463-615/2.png"
     ]
   },
   {
@@ -25,8 +25,8 @@
     "price": 112,
     "label": "sale",
     "img": [
-      "http://localhost:8080/assets/img/watches/m-02561-360/1.png",
-      "http://localhost:8080/assets/img/watches/m-02561-360/2.png"
+      "assets/img/watches/m-02561-360/1.png",
+      "assets/img/watches/m-02561-360/2.png"
     ]
   },
   {
@@ -40,8 +40,8 @@
     "price": 294,
     "label": null,
     "img": [
-      "http://localhost:8080/assets/img/watches/m-02605-830/1.png",
-      "http://localhost:8080/assets/img/watches/m-02605-830/2.png"
+      "assets/img/watches/m-02605-830/1.png",
+      "assets/img/watches/m-02605-830/2.png"
     ]
   },
   {
@@ -55,9 +55,9 @@
     "price": 205,
     "label": "sale",
     "img": [
-      "http://localhost:8080/assets/img/watches/m-02684-140/1.png",
-      "http://localhost:8080/assets/img/watches/m-02684-140/2.png",
-      "http://localhost:8080/assets/img/watches/m-02684-140/3.png"
+      "assets/img/watches/m-02684-140/1.png",
+      "assets/img/watches/m-02684-140/2.png",
+      "assets/img/watches/m-02684-140/3.png"
     ]
   },
   {
@@ -70,7 +70,7 @@
     "color": "black",
     "price": 212,
     "label": "sale",
-    "img": ["http://localhost:8080/assets/img/watches/m-94307-370/1.png"]
+    "img": ["assets/img/watches/m-94307-370/1.png"]
   },
   {
     "id": "m-59205-970",
@@ -82,7 +82,7 @@
     "color": "black",
     "price": 632,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/m-59205-970/1.png"]
+    "img": ["assets/img/watches/m-59205-970/1.png"]
   },
   {
     "id": "m-64579-890",
@@ -94,7 +94,7 @@
     "color": "blue",
     "price": 463,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/m-64579-890/1.png"]
+    "img": ["assets/img/watches/m-64579-890/1.png"]
   },
   {
     "id": "m-86543-700",
@@ -106,7 +106,7 @@
     "color": "white",
     "price": 1057,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/m-86543-700/1.png"]
+    "img": ["assets/img/watches/m-86543-700/1.png"]
   },
   {
     "id": "m-86534-000",
@@ -118,7 +118,7 @@
     "color": "black",
     "price": 2200,
     "label": "new",
-    "img": ["http://localhost:8080/assets/img/watches/m-86534-000/1.png"]
+    "img": ["assets/img/watches/m-86534-000/1.png"]
   },
   {
     "id": "m-86541-000",
@@ -130,7 +130,7 @@
     "color": "silver",
     "price": 1400,
     "label": "new",
-    "img": ["http://localhost:8080/assets/img/watches/m-86541-000/1.png"]
+    "img": ["assets/img/watches/m-86541-000/1.png"]
   },
   {
     "id": "m-34681-000",
@@ -142,7 +142,7 @@
     "color": "black",
     "price": 400,
     "label": null,
-    "img": ["http://localhost:8080/assets/img/watches/m-34681-000/1.png"]
+    "img": ["assets/img/watches/m-34681-000/1.png"]
   },
   {
     "id": "m-03274-000",
@@ -155,8 +155,8 @@
     "price": 600,
     "label": "hit",
     "img": [
-      "http://localhost:8080/assets/img/watches/m-03274-000/1.png",
-      "http://localhost:8080/assets/img/watches/m-03274-000/2.png"
+      "assets/img/watches/m-03274-000/1.png",
+      "assets/img/watches/m-03274-000/2.png"
     ]
   },
   {
@@ -169,7 +169,7 @@
     "color": "black",
     "price": 193,
     "label": "sale",
-    "img": ["http://localhost:8080/assets/img/watches/m-05388-800/1.png"]
+    "img": ["assets/img/watches/m-05388-800/1.png"]
   },
   {
     "id": "m-56420-800",
@@ -181,7 +181,7 @@
     "color": "beige",
     "price": 193,
     "label": "sale",
-    "img": ["http://localhost:8080/assets/img/watches/m-56420-800/1.png"]
+    "img": ["assets/img/watches/m-56420-800/1.png"]
   },
   {
     "id": "m-43721-000",
@@ -193,7 +193,7 @@
     "color": "white",
     "price": 333,
     "label": null,
-    "img": ["http://localhost:8080/assets/img/watches/m-43721-000/1.png"]
+    "img": ["assets/img/watches/m-43721-000/1.png"]
   },
   {
     "id": "m-45799-000",
@@ -205,7 +205,7 @@
     "color": "white",
     "price": 1433,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/m-45799-000/1.png"]
+    "img": ["assets/img/watches/m-45799-000/1.png"]
   },
   {
     "id": "m-72922-000",
@@ -217,7 +217,7 @@
     "color": "gray",
     "price": 333,
     "label": null,
-    "img": ["http://localhost:8080/assets/img/watches/m-72922-000/1.png"]
+    "img": ["assets/img/watches/m-72922-000/1.png"]
   },
   {
     "id": "m-92284-000",
@@ -229,7 +229,7 @@
     "color": "gray",
     "price": 600,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/m-92284-000/1.png"]
+    "img": ["assets/img/watches/m-92284-000/1.png"]
   },
   {
     "id": "w-13467-000",
@@ -241,7 +241,7 @@
     "color": "black",
     "price": 3467,
     "label": "new",
-    "img": ["http://localhost:8080/assets/img/watches/w-13467-000/1.png"]
+    "img": ["assets/img/watches/w-13467-000/1.png"]
   },
   {
     "id": "w-86511-000",
@@ -253,7 +253,7 @@
     "color": "black",
     "price": 2733,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/w-86511-000/1.png"]
+    "img": ["assets/img/watches/w-86511-000/1.png"]
   },
   {
     "id": "w-66706-000",
@@ -265,7 +265,7 @@
     "color": "black",
     "price": 1367,
     "label": "hit",
-    "img": ["http://localhost:8080/assets/img/watches/w-66706-000/1.png"]
+    "img": ["assets/img/watches/w-66706-000/1.png"]
   },
   {
     "id": "w-82741-300",
@@ -278,8 +278,8 @@
     "price": 777,
     "label": "sale",
     "img": [
-      "http://localhost:8080/assets/img/watches/w-82741-300/1.png",
-      "http://localhost:8080/assets/img/watches/w-82741-300/2.png"
+      "assets/img/watches/w-82741-300/1.png",
+      "assets/img/watches/w-82741-300/2.png"
     ]
   },
   {
@@ -292,7 +292,7 @@
     "color": "black",
     "price": 530,
     "label": null,
-    "img": ["http://localhost:8080/assets/img/watches/w-79193-900/1.png"]
+    "img": ["assets/img/watches/w-79193-900/1.png"]
   },
   {
     "id": "w-91275-000",
@@ -304,7 +304,7 @@
     "color": "gray",
     "price": 133,
     "label": null,
-    "img": ["http://localhost:8080/assets/img/watches/w-91275-000/1.png"]
+    "img": ["assets/img/watches/w-91275-000/1.png"]
   },
   {
     "id": "w-37726-000",
@@ -316,7 +316,7 @@
     "color": "gold",
     "price": 133,
     "label": null,
-    "img": ["http://localhost:8080/assets/img/watches/w-37726-000/1.png"]
+    "img": ["assets/img/watches/w-37726-000/1.png"]
   },
   {
     "id": "c-53557-300",
@@ -328,7 +328,7 @@
     "color": "gray",
     "price": 43,
     "label": "new",
-    "img": ["http://localhost:8080/assets/img/watches/c-53557-300/1.png"]
+    "img": ["assets/img/watches/c-53557-300/1.png"]
   },
   {
     "id": "c-72993-200",
@@ -341,8 +341,8 @@
     "price": 40,
     "label": "hit",
     "img": [
-      "http://localhost:8080/assets/img/watches/c-72993-200/1.png",
-      "http://localhost:8080/assets/img/watches/c-72993-200/2.png"
+      "assets/img/watches/c-72993-200/1.png",
+      "assets/img/watches/c-72993-200/2.png"
     ]
   },
   {
@@ -356,8 +356,8 @@
     "price": 40,
     "label": "hit",
     "img": [
-      "http://localhost:8080/assets/img/watches/c-86523-200/1.png",
-      "http://localhost:8080/assets/img/watches/c-86523-200/2.png"
+      "assets/img/watches/c-86523-200/1.png",
+      "assets/img/watches/c-86523-200/2.png"
     ]
   },
   {
@@ -371,8 +371,8 @@
     "price": 13,
     "label": null,
     "img": [
-      "http://localhost:8080/assets/img/watches/c-41409-375/1.png",
-      "http://localhost:8080/assets/img/watches/c-41409-375/2.png"
+      "assets/img/watches/c-41409-375/1.png",
+      "assets/img/watches/c-41409-375/2.png"
     ]
   },
   {
@@ -385,6 +385,6 @@
     "color": "black",
     "price": 13,
     "label": "sale",
-    "img": ["http://localhost:8080/assets/img/watches/c-59695-375/1.png"]
+    "img": ["assets/img/watches/c-59695-375/1.png"]
   }
 ]
