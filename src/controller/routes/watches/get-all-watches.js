@@ -14,6 +14,12 @@ const getAllWatches = (req, res) => {
     const gender = Array.from(new Set(items.map(item => item.gender)));
     const color = Array.from(new Set(items.map(item => item.color)));
     const brand = Array.from(new Set(items.map(item => item.brand)));
+    const minPrice = Math.min(
+      ...Array.from(new Set(items.map(item => parseFloat(item.price))))
+    );
+    const maxPrice = Math.max(
+      ...Array.from(new Set(items.map(item => parseFloat(item.price))))
+    );
 
     const page = query.page || 1;
     const view = query.view || 6;
@@ -47,7 +53,9 @@ const getAllWatches = (req, res) => {
       brand,
       countAll,
       filteredCount,
-      maxPage
+      maxPage,
+      minPrice,
+      maxPrice
     });
   };
 
