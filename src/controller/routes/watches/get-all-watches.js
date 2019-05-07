@@ -24,9 +24,20 @@ const getAllWatches = (req, res) => {
     const page = query.page || 1;
     const view = query.view || 6;
 
-    const filterGender = (query.gender && query.gender.split(",")) || gender;
-    const filterBrand = (query.brand && query.brand.split(",")) || brand;
-    const filterColor = (query.color && query.color.split(",")) || color;
+    const filterGender =
+      (query.gender &&
+        (Array.isArray(query.gender)
+          ? query.gender
+          : Array.of(query.gender))) ||
+      gender;
+    const filterBrand =
+      (query.brand &&
+        (Array.isArray(query.brand) ? query.brand : Array.of(query.brand))) ||
+      brand;
+    const filterColor =
+      (query.color &&
+        (Array.isArray(query.color) ? query.color : Array.of(query.color))) ||
+      color;
 
     const filteredItems = items.filter(
       ({ gender, brand, color }) =>
@@ -35,14 +46,20 @@ const getAllWatches = (req, res) => {
         filterColor.includes(color)
     );
 
+    const filteredPriceItems = filteredItems.filter(
+      ({ price }) =>
+        (query.minPrice ? price >= query.minPrice : price >= minPrice) &&
+        (query.maxPrice ? price <= query.maxPrice : price <= maxPrice)
+    );
+
     const countAll = items.length;
-    const filteredCount = filteredItems.length;
+    const filteredCount = filteredPriceItems.length;
     const maxPage = Math.ceil(filteredCount / view);
 
     const resultData =
       page === 1
-        ? filteredItems.slice(0, view)
-        : filteredItems.slice(page * view - view, page * view);
+        ? filteredPriceItems.slice(0, view)
+        : filteredPriceItems.slice(page * view - view, page * view);
 
     res.status(200);
     res.json({
